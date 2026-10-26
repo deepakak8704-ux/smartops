@@ -1,0 +1,26 @@
+[
+  {
+    "employee_id": "EMP201",
+    "name": "Vikram",
+    "email": "vikram@example.com",
+    "department": "IT",
+    "role": "Backend Developer",
+    "phone": "9876500011"
+  },
+  {
+    "employee_id": "EMP202",
+    "name": "Meena",
+    "email": "meena@example.com",
+    "department": "HR",
+    "role": "HR Manager",
+    "phone": "9876500012"
+  },
+  {
+    "employee_id": "EMP203",
+    "name": "Suresh",
+    "email": "suresh@example.com",
+    "department": "Support",
+    "role": "Support Engineer",
+    "phone": "9876500013"
+  }
+]

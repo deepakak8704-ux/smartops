@@ -1,0 +1,6 @@
+employee_id,name,email,department,role,phone
+EMP101,Ravi,ravi@example.com,IT,Python Developer,9876500001
+EMP102,Sneha,sneha@example.com,HR,HR Executive,9876500002
+EMP103,Arjun,arjun@example.com,Finance,Accountant,9876500003
+EMP104,Priya,priya@example.com,IT,Software Developer,9876500004
+EMP105,Kiran,kiran@example.com,Support,Support Engineer,9876500005
